@@ -1,4 +1,4 @@
-# Hello, I'm Justus Röderer
+# Hello, I'm the dateiexplorer 
 
 I'm a programmer, Linux enthusiast and trust in open source software. I've
 tried several Linux distributions and love all of them and will try and learn
